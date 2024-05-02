@@ -70,7 +70,7 @@ class Engine(object):
             test_flag = row['Test']
 
             config = configparser.ConfigParser()
-            config.read('data_configs/univariant_configs/' + data_name + '.conf')
+            config.read('data_configs/univariate_configs/' + data_name + '.conf')
             data_config = config['config']
 
             args.data_path = data_config['data_path']

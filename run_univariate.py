@@ -5,7 +5,7 @@ import numpy as np
 import pandas as pd
 import argparse
 
-from engines.engine_univariant import Engine
+from engines.engine_univariate import Engine
 from utils.logger import get_logger
 torch.set_num_threads(3)
 
