@@ -1,6 +1,0 @@
-Data,Prediction,Train,Valid,Test
-illness,60,1,0,0
-illness,24,0,0,1
-illness,36,0,0,1
-illness,48,0,0,1
-illness,60,0,0,1
