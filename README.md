@@ -56,3 +56,5 @@ If you find our work useful in your research, please cite:
 We appreciate the following github repository for sharing the valuable code base and datasets:
 
 https://github.com/thuml/Time-Series-Library
+
+в execute_list/divided_list расположены конфигурационные файлы для запуска наборов данных по отдельности.

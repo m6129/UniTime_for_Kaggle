@@ -1,0 +1,7 @@
+Data,Prediction,Train,Valid,Test
+de_small,60,1,0,0
+de_small,60,0,1,0
+de_small,24,0,0,1
+de_small,36,0,0,1
+de_small,48,0,0,1
+de_small,60,0,0,1
